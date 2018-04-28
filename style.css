@@ -1,0 +1,29 @@
+#imprint-body {
+	margin: 50px auto auto 20px;
+}
+
+h1 {
+	font-size: 1.4em;
+	text-decoration:underline;
+}
+
+#TODO-table {
+	margin-top: 20px;
+	padding: 50px 20px auto 20px;
+}
+
+.progress {
+	width: 200px;
+}
+
+#my-drop {
+	margin: 0 0 10px 0;
+}
+
+#new-TODO {
+	margin: 50px 20px auto 20px;
+}
+
+#save-btn {
+	margin-top: 20px;
+}
